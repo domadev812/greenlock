@@ -16,9 +16,9 @@
   },
   "sites": [
     {
-      "subject": "example.com",
+      "subject": "search.servercentralen.se",
       "altnames": [
-        "example.com"
+        "search.servercentralen.se"
       ],
       "renewAt": 1
     }
