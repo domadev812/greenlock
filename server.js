@@ -6,6 +6,10 @@ require('greenlock-express')
     .init({
         packageRoot: __dirname,
 
+        // manager: {
+        //     module: './manager.js'
+        // },
+
         // contact for security and critical bug notices
         maintainerEmail: "domabenedek1017@hotmail.com",
 
